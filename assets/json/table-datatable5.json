@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "full_name": "Korrie O'Crevy",
+      "check_in_time": "2:00",
+      "check_out_time":"3:00" ,
+      "property_officer": "good",
+      "officer":"BPS-19",
+      "no_of_properties":"commutative ",
+      "last_property_visit": "Leaving home",
+      "last_check_in": "4:00 ",
+      "last_comment":"best",
+      "com_ment" :"The Best"
+      
+    },
+    {
+      "id": 2,
+      "full_name": "B Korrie O'Crevy",
+      "check_in_time": "2:00",
+      "check_out_time":"3:00" ,
+      "property_officer": "good",
+      "last_property_visit": "Leaving home",
+      "last_check_in": "4:00 ",
+      "last_comment":"best",
+      "officer":"BPS-19",
+      "no_of_properties":"commutative ",
+      "com_ment" :"The as Best"
+      
+    },
+    {
+      "id": 3,
+      "full_name": "C Korrie O'Crevy",
+      "check_in_time": "2:00",
+      "check_out_time":"3:00" ,
+      "property_officer": "good",
+      "last_property_visit": "Leaving home",
+      "last_check_in": "4:00 ",
+      "last_comment":"best",
+      "officer":"BPS-19",
+      "no_of_properties":"commutative ",
+      "com_ment" :"Thedsa Best"
+      
+      
+    }
+    
+
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "full_name": "Korrie O'Crevy",
+      "check_in_time": "2:00",
+      "check_out_time":"3:00" ,
+      "officer":"William",
+      "property": "1",
+      "last_check_in":"2:00",
+
+      "last_comment" :"The Best"
+      
+    },
+    {
+      "id": 2,
+      "full_name": "B Korrie O'Crevy",
+      "check_in_time": "2:00",
+      "check_out_time":"3:00" ,
+      "officer":"Alexander",
+      "property": "2",
+      "last_check_in":"3:00",
+
+      "last_comment" :"The as Best"
+      
+    },
+    {
+      "id": 3,
+      "full_name": "C Korrie O'Crevy",
+      "check_in_time": "2:00",
+      "check_out_time":"3:00" ,
+      "officer":"Edward",
+      "property": "3",
+      "last_check_in":"4:00",
+      "last_comment" :"Thedsa Best"
+      
+      
+    }
+    
+      
+        
+
+  ]
+}
