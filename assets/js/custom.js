@@ -1429,7 +1429,7 @@ if (reports_table.length) {
           render: function (data, type, full, meta) {
             return (
               '<div class="d-inline-block">' +
-                '<a href="officer-detail.html" class="btn btn-sm btn-icon"><i class="text-primary ti ti-file-description"></i></a>'+
+                '<a href="report-detail.html" class="btn btn-sm btn-icon"><i class="text-primary ti ti-file-description"></i></a>'+
               '</div>'
             );
           }
