@@ -2,29 +2,29 @@
   "data": [
     {
       "id": 1,
-      "full_name": "Korrie O'Crevy",
+      "property_name": " Rhodes Avenue, Atlanta GA",
       "officer_name": "Ninna Williams",
       "check_in_time": "2:00",
       "check_out_time":"3:00" ,
-      "com_ment" :"The Best"
+      "com_ment" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt labore ipsa suscipit quas consequuntur, veritatis provident! Molestias libero aliquid voluptatibus ut praesentium maiores est molestiae nam dolore blanditiis? Architecto, sunt?"
       
     },
     {
       "id": 2,
-      "full_name": "B Korrie O'Crevy",
+      "property_name": "Jones Avenue, Atlanta, GA",
       "officer_name": "Eddy Gordo",
       "check_in_time": "2:00",
       "check_out_time":"3:00" ,
-      "com_ment" :"The as Best"
+      "com_ment" :"Lorem ipsum dolor sit amet consectetur adipisicing elit."
       
     },
     {
       "id": 3,
-      "full_name": "C Korrie O'Crevy",
+      "property_name": "James P. Brawley Drive,",
       "officer_name": "Paul phionex",
       "check_in_time": "2:00",
       "check_out_time":"3:00" ,
-      "com_ment" :"Thedsa Best"
+      "com_ment" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt labore ipsa suscipit quas consequuntur, veritatis provident! Molestias libero aliquid voluptatibus ut praesentium maiores est molestiae nam dolore blanditiis? Architecto, sunt? Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt labore ipsa suscipit quas consequuntur, veritatis provident! Molestias libero aliquid voluptatibus ut praesentium maiores est molestiae nam dolore blanditiis? Architecto, sunt?"
       
     }
     

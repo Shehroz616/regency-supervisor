@@ -369,7 +369,7 @@ if (list_property_table.length) {
         { data: '' },
         { data: 'id' },
         { data: 'id' },
-        { data: 'full_name' },
+        { data: 'property_name' },
         { data: 'officer_name' },
         { data: 'check_in_time' },
         { data: 'check_out_time' },
